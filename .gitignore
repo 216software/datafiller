@@ -1,3 +1,4 @@
+# Ignore any file that ends with .pyc, .pyo, or .pyd
 *.py[cod]
 
 # C extensions
